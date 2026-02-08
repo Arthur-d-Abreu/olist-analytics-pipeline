@@ -1,0 +1,17 @@
+
+        ================================================== 
+        RELATÓRIO DE UPLOAD
+        ==================================================
+        Data/Hora: 2026-02-07 19:57:59
+        Tempo total: 0:00:24.749508
+        ==================================================
+
+        RESUMO
+        Total de arquivos: 1
+        Sucessos: 1
+        Falhas: 0
+
+        DETALHES:
+        OK olist_orders_dataset_clean.csv -> olist_orders_dataset_clean (99441 registros)
+
+==================================================

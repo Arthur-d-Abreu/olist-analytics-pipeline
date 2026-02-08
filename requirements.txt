@@ -1,0 +1,17 @@
+pandas>=1.5.0
+numpy>=1.24.0
+
+sqlalchemy>=2.0.0
+
+# Drivers de banco
+psycopg2-binary>=2.9.0   # PostgreSQL
+pymysql>=1.0.0           # MySQL
+pyodbc>=4.0.39           # SQL Server
+sqlite-utils>=3.35       # SQLite (opcional)
+
+# Arquivos
+openpyxl>=3.0.0          # Excel
+
+# Utilidades
+python-dotenv>=0.21.0
+tqdm>=4.65.0

@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Power BI temporários
+*.pbip
+*.pbi.tmp
+
+# Dados grandes (se existirem localmente)
+data/raw/*
+!data/raw/README.md
