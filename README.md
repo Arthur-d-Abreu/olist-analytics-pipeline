@@ -117,7 +117,7 @@ Foi criado um critério baseado no volume do produto:
 
 ---
 
-## 📊 Próxima Etapa
+## 📊 Dashboard no Power BI
 
 Construção de dashboards no **Power BI**, incluindo:
 
@@ -263,7 +263,7 @@ A business rule was created based on product volume:
 
 ---
 
-## 📊 Next Steps
+## 📊 Dashboard on Power BI
 
 Development of dashboards in Power BI, including:
 
